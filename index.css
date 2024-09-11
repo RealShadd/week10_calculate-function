@@ -1,0 +1,24 @@
+div {
+  width: 60%;
+  height: 100px;
+}
+button {
+  width: 10%;
+  height: 55%;
+  border: 1px;
+  background-color: #dae8fb;
+  font-size: 20px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #c1cee0;
+}
+button:active {
+  background-color: #c1cee0;
+  transform: translateY(2px);
+}
+input {
+  width: 20%;
+  height: 50%;
+  font-size: 20px;
+}
